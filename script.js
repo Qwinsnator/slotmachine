@@ -11,6 +11,7 @@ function setup() {
   background('blue');
 }
 
+var nummer = random(0,9);
 
 /**
  * draw

@@ -11,7 +11,14 @@ class Slot {
 
 
     show() {
-        this.nummer
+        rect(this.x, this.y, 100, 150);
+        textSize(20);
+        text(this.nummer, this.x-5, this.y+5);
+
+
+
+
+
     }
 
 
